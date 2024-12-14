@@ -1,0 +1,14 @@
+@font-face {
+    font-family: "Poppins";
+    src: url(./fonts/Poppins-Regular.woff2);
+}
+
+@font-face {
+    font-family: "Inspiration";
+    src: url(./fonts/Inspiration-Regular.woff2);
+}
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
